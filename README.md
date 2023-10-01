@@ -11,3 +11,4 @@
 - [0005-大模型老师](handpick/0005-大模型老师.md)
 - [0006-前端部署搭建](handpick/0006-前端部署搭建.md)
 - [0007-再见 TypeScript?](handpick/0007-再见TypeScript.md)
+- [0008-证明图灵完备](handpick/0008-证明图灵完备.md)
