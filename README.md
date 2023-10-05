@@ -12,4 +12,4 @@
 - [0006-前端部署搭建](handpick/0006-前端部署搭建.md)
 - [0007-再见 TypeScript?](handpick/0007-再见TypeScript.md)
 - [0008-证明图灵完备](handpick/0008-证明图灵完备.md)
-- [0009-如何做 CodeReview](handpick/0009-CodeReview实践.md)
+- [0009-如何做 CodeReview](handpick/0009-如何做CodeReview.md)
