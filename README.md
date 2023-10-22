@@ -14,3 +14,4 @@
 - [0008-证明图灵完备](handpick/0008-证明图灵完备.md)
 - [0009-如何做 CodeReview](handpick/0009-如何做CodeReview.md)
 - [0010-多分支迭代的反思](handpick/0010-多分支迭代的反思.md)
+- [0011-什么是懂业务](handpick/0011-什么是懂业务.md)
