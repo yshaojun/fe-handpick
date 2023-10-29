@@ -15,3 +15,4 @@
 - [0009-如何做 CodeReview](handpick/0009-如何做CodeReview.md)
 - [0010-多分支迭代的反思](handpick/0010-多分支迭代的反思.md)
 - [0011-什么是懂业务](handpick/0011-什么是懂业务.md)
+- [0012-职级即阶级](handpick/0012-职级即阶级.md)
